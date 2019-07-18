@@ -1,0 +1,7 @@
+com.airwallex.operation.AddOperation
+com.airwallex.operation.MinusOperation
+com.airwallex.operation.MultiplyOperation
+com.airwallex.operation.DivideOperation
+com.airwallex.operation.SqrtOperation
+com.airwallex.operation.ClearOperation
+com.airwallex.operation.UndoOperation
